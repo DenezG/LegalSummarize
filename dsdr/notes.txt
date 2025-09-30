@@ -1,0 +1,6 @@
+Pour faire fonctionner :
+stemming puis stop-word eliminiation
+
+ensuite on split le texte en phrases, ce qui nous donne
+le candidate set
+
